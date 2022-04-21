@@ -17,15 +17,7 @@
                 ||----w |
                 ||     ||
 
-
-
 ---
-
-
-<br><br>
-
-### From the moment
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5DlYkXnN8woU2uZB8SNOpk?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 ### Languages ​​and Tools I'm Learning.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
