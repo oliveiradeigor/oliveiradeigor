@@ -32,6 +32,7 @@
   <td colspan="2">
     <a href="https://github.com/oliveiradeigor">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=LINUX&logoColor=black"/>
+      <img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=UBUNTU&logoColor="/>
       <img src="https://img.shields.io/badge/ARCH LINUX-000000?style=for-the-badge&logo=ARCH LINUX&logoColor=blu"/>
       <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
